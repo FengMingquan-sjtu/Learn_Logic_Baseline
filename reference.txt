@@ -1,0 +1,15 @@
+1. HSG (Hawkes process with sum of Gaussian kernels)(Xu et al., 2016)
+--> tick.hawkes.HawkesSumGaussians
+https://x-datainitiative.github.io/tick/modules/generated/tick.hawkes.HawkesSumGaussians.html#tick.hawkes.HawkesSumGaussians
+
+2. NHPC (nonparametric Hawkes process cumulant matching) (Achab et al., 2018)
+--> tick.hawkes.HawkesCumulantMatching
+https://x-datainitiative.github.io/tick/modules/generated/tick.hawkes.HawkesCumulantMatching.html#tick.hawkes.HawkesCumulantMatching
+
+3. HExp
+
+4. RPPN
+https://github.com/razhangwei/CAUSE/blob/master/pkg/models/rppn.py
+
+5. CAUSE
+https://github.com/razhangwei/CAUSE
